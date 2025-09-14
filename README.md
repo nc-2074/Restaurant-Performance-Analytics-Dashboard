@@ -45,13 +45,18 @@ Pizza-Sales-Analysis/
 │   └── pizza_sales_data.xlsx  
 │  
 ├── SQL Queries/  
-│   ├── KPI and Chart Validation Scripts  
+│   ├── .gitattributes  
 │   ├── SQLQuery_for _chart_data.sql 
-│   ├── SQLQuery_for _KPI.sql     
+│   ├── SQLQuery_for _KPI.sql
+│
+│── Report/
+│   └── Pizza Sales Performance Dashboard Report.pdf    
 │  
 ├── Dashboard/  
-│   └── Pizza_Sales_Report.pbix  
-│  
+│   ├── Pizza Sales Dashboard.pbix  
+│   ├── Pizza Sales Report Best and Worst Sellers.png
+│   ├── Pizza Sales Report Home Page.png
+│ 
 └── [README.md]
 ```
 
