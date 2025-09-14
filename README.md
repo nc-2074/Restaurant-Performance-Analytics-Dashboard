@@ -46,10 +46,8 @@ Pizza-Sales-Analysis/
 │  
 ├── SQL Queries/  
 │   ├── KPI and Chart Validation Scripts  
-│   ├── 01_KPIs.sql  
-│   ├── 02_Daily_Monthly_Trends.sql  
-│   ├── 03_Sales_Distribution.sql  
-│   └── 04_Top_Bottom_Performers.sql  
+│   ├── SQLQuery_for _chart_data.sql 
+│   ├── SQLQuery_for _KPI.sql     
 │  
 ├── Dashboard/  
 │   └── Pizza_Sales_Report.pbix  
