@@ -92,7 +92,7 @@ GROUP BY DATENAME(DW, order_date);
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/nc-2074/pizza-sales-analysis.git
+git clone https://github.com/nc-2074/Restaurant-Performance-Analytics-Dashboard.git
 ```
 
 ### Database Setup:
